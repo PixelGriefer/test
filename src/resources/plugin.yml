@@ -1,0 +1,21 @@
+name: PvP
+author: PixelGriefer
+version: 1.0
+main: eu.pixelgriefer.pvp.main.Main
+
+commands:
+   cc:
+   chatclear:
+   ec:
+   enderchest:
+   feed:
+   heal:
+   trash:
+   müll:
+   head:
+   gm:
+   vanish:
+   v:
+   giveall:
+   fly:
+   kit:
